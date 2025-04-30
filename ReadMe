@@ -12,4 +12,4 @@ spring.r2dbc.url=r2dbc:mysql://${MYSQL_HOST:localhost}:3306/dbname
 spring.r2dbc.username=root
 spring.r2dbc.password=20090620
 
-додаємо WebFlux.java
+додаємо WebFlux.java(для взаємодії з фронтом)
